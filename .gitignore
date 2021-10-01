@@ -1,0 +1,6 @@
+\__pycache__
+env/
+.env
+todo.db
+.vscode
+.DS_Store

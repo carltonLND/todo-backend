@@ -1,0 +1,6 @@
+# APP RUN SETTINGS: ---------------------------------------------------------------------
+app_debug=                    True (development server) or False (production server)
+app_host=                     domain - default = 127.0.0.1
+app_port=                     port - default = 5000
+# DATABASE SETTINGS: --------------------------------------------------------------------
+db_uri=                       SQLAlchemy databse uri eg. sqlite:///your_db.db
